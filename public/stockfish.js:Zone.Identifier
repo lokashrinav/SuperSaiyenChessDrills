@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/lichess-org/stockfish.js/releases
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/63473310/4bb99a34-9016-11e8-9c5d-e3347ee44d16?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250224%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250224T223836Z&X-Amz-Expires=300&X-Amz-Signature=76bc37943ff4715f595066b73bd70747e0fc4a545951625863f16d7d41839693&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dstockfish.js&response-content-type=application%2Foctet-stream
